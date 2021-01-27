@@ -16,5 +16,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValeriaGTerziyska/JS-Apps-Exam-2020.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ValeriaGTerziyska/JS-Apps-Exam-2020/issues"
+  },
+  "homepage": "https://github.com/ValeriaGTerziyska/JS-Apps-Exam-2020#readme"
 }
